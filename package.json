@@ -1,7 +1,12 @@
 {
   "dependencies": {
     "axios": "^1.10.0",
+    "dotenv": "^16.5.0",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^24.10.2",
     "screenshot-desktop": "^1.15.1",
-    "tesseract.js": "^6.0.1"
+    "sharp": "^0.34.2",
+    "tesseract.js": "^6.0.1",
+    "ws": "^8.18.2"
   }
 }
